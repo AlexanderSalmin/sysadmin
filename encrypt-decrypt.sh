@@ -1,5 +1,7 @@
 #!/usr/local/bin/bash
 
+#encrypt and decrypts a text file
+
 # before we begin
 RM_PATH="/bin/rm"
 GPG_PATH="/usr/local/bin/gpg"
